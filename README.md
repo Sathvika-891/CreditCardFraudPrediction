@@ -44,9 +44,11 @@ To run this project, you need to install the required libraries. You can do this
 
 3. Follow the instructions in the notebook to load the dataset, preprocess the data, train the models, and evaluate their performance.
 
+Sure! Here's the updated section for the README that includes information about downloading the dataset from Kaggle:
+
 ## Data
 
-The dataset used in this project is sourced from [Open Datasets](https://www.opendatasets.com/) and contains a variety of transaction features. Ensure you have the correct dataset available for analysis.
+The dataset used in this project is sourced from Kaggle. It contains a variety of transaction features relevant for detecting fraudulent activities. You can find the dataset [here](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023).
 
 ## Models
 
